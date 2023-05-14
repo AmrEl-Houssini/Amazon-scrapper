@@ -1,5 +1,5 @@
 # amazon-scrapper
-When it comes to scraping . for me, unleashing data from the HTML structure is a very fun and crucial task for businesses. 
+When it comes to scraping, for me, unleashing data from the HTML structure is a very fun and I believe it's crucial task for businesses. 
 As someone who learns best by doing and applying new information in a project in parallel, I found it extremely fun to convert my ideas into a script. 
 So, I made one to scrape data from Amazon's website based on a search query which I gave to the script, 
 and then generated CSV file to hold the data.
